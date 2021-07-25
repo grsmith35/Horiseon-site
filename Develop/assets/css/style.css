@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Navigation bar syling start */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,6 +41,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/*Navigation bar styling end */
 
 a {
     color: #ffffff;
@@ -49,7 +51,8 @@ a {
 p {
     font-size: 16px;
 }
-
+ 
+/*Start of hero section styling*/
 .hero {
     height: auto;
     width: 100;
@@ -63,6 +66,7 @@ p {
     width: 100%;
     height: auto;
 }
+/*End of hero section styling */
 
 .float-left {
     float: left;
@@ -80,6 +84,7 @@ p {
     margin-left: 20px;
 }
 
+/*Side bar benifits styling start*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -106,7 +111,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*Side bar benifits styling end*/
 
+/*main section article syling start */
 .article-formatting {
     margin-bottom: 20px;
     padding: 50px;
@@ -124,6 +131,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*main section article styling end*/
 
 .footer {
     padding: 30px;
