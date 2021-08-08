@@ -6,9 +6,9 @@ Site to allow customers to view what are the benefits of hiring Horiseon to help
 * HTML
 * CSS
 
-![Alt text](.assets/images/Hero-section-screen-shot.png?raw=true "Hero section screen shot")
+![Hero section](/assets/images/Hero-section-screen-shot.png?raw=true "Hero section screen shot")
 
-![Alt text](./assets/images/main-section-screen-shot.png?raw=true "Body section screen shot")
+![Main body](/assets/images/main-section-screen-shot.png?raw=true "Body section screen shot")
 
 #Website
 https://grsmith35.github.io/week1challenge
